@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TestFileGenerator": {
+      "commandName": "Project",
+      "commandLineArgs": "--fileSize 1"
+    }
+  }
+}

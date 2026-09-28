@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/3dEye/CopilotIndices/18.10.1189.45219
+/.vs/3dEye.slnx/DesignTimeBuild/.dtbcache.v2
+/.vs/3dEye.slnx/FileContentIndex
+/.vs/3dEye.slnx/v18
+/.vs/ProjectEvaluation
+/Sorter/obj
+/TestFileGenerator/obj
+/Sorter/obj/
+/Sorter/bin/Debug/net10.0/Sorter.dll
+/Sorter/bin/Debug/net10.0/Sorter.exe
+/Sorter/bin/Debug/net10.0/Sorter.pdb
+/TestFileGenerator/bin/Debug/net10.0/TestFileGenerator.dll
+/TestFileGenerator/bin/Debug/net10.0/TestFileGenerator.exe
+/TestFileGenerator/bin/Debug/net10.0/TestFileGenerator.pdb
+/.vs/3dEye.slnx/copilot-chat/30e8e388/sessions/abf02183-d21b-4b2d-8f1f-a78c5e9bf5f1
+/.vs/3dEye/CopilotIndices
+*.config
+/.vs/CopilotSnapshots
+/Sorter/bin/Debug/net10.0
+/TestFileGenerator/bin

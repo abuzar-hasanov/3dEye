@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sorter": {
+      "commandName": "Project",
+      "commandLineArgs": "--chunkSize 100 --concurrencyCount 100"
+    }
+  }
+}
